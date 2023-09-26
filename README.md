@@ -19,3 +19,7 @@ colin-sung-187a57103
 
 - 📫 How to reach me: ...[Linkedin](www.linkedin.com/in/colin-sung-187a57103)
 - 😄 Pronouns: ... He/His
+<div id="header" align="center">
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXcxdGt5NXRqOTY1OHR1anN5a2R6NXQ2emZ5OXN6cmQ5czVvd29raSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M9gbBd9nbDrOTu1Mqx/giphy.gif)" width="100"/>
+</div>
+
