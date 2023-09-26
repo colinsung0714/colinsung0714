@@ -16,3 +16,8 @@ colin-sung-187a57103
 - 😄 Pronouns: ... He/His
 - ⚡ Fun fact: ...
 -->
+
+- 📫 How to reach me: ... [Linkedin](www.linkedin.com/in/
+colin-sung-187a57103
+)
+- 😄 Pronouns: ... He/His
