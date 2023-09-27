@@ -55,7 +55,7 @@ colin-sung-187a57103
 
 ### :fire: My Stats :
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=colinsung0714&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=colinsung0714&show_icons=true&theme=transparent)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=colinsung0714&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
